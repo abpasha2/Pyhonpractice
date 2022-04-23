@@ -1,0 +1,28 @@
+Q1. Use application_record dataset and find out the total missing values. Explore potential ways to fill the missing values. (5 mark)
+
+
+Q2. Using the same dataset, find the outliers in the dataset using [1%,99%] method and IQR method.(5 mark)
+
+Q3. Create a distribution plot before and after updating the outlier values with the upper bound/lower bound.(5 mark)
+
+Q4. Find potential issues with categorical variables. How to deal with missing values in categorical data.(5 mark)
+
+Q5. Explore column and Code_Gender and Flag_own_car column. Is there a relationship between them.(5 mark)
+
+Q6. Use the columns AMT_INCOME_TOTAL, NAME_INCOME_TYPE , NAME_EDUCATION_TYPE and infer about the total income based on income type and education type.(5 mark)
+
+Q7. Comment on the salary bias between working FEMALE and MALE.
+
+Q8. Is AMT_INCOME_TOTAL has skewed distribution? (5 mark)
+
+	a) Which side it is skewed right or left. (1 mark)
+
+	b) Find the value of skewness, standard deviation, mean and median? (2 mark)
+
+	c) Is mean and median close to each other.(2 mark)
+
+Q9. Create a violin plot of AMT_INCOME_TOTAL by CODE_GENDER?(5 mark)
+
+Q10. Provide the 5 number summary for AMT_INCOME_TOTAL i.e. What is min, max, 25%, 75% and 50% (Median) value.(5 mark)
+
+Q11. Write down the PDF function assuming it is gaussian normal for AMT_INCOME_TOTAL. (5 mark)
